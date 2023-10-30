@@ -1,2 +1,6 @@
 This is my first git file.
 
+learning how to see the commit changes.
+
+
+
